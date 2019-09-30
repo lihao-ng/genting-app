@@ -1,4 +1,4 @@
-# genting_recognition
+# genting_app
 
 A new Flutter project.
 
